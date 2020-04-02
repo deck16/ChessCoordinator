@@ -1,0 +1,2 @@
+# ChessCoordinator
+Chess Trainer
